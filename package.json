@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lastHelp/Ws_Plus_MongoDb/issues"
   },
-  "homepage": "https://github.com/lastHelp/Ws_Plus_MongoDb#readme"
+  "homepage": "https://github.com/lastHelp/Ws_Plus_MongoDb#readme",
+  "dependencies": {
+    "ws": "^6.0.0"
+  }
 }
