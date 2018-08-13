@@ -19,6 +19,6 @@
   "homepage": "https://github.com/lastHelp/Ws_Plus_MongoDb#readme",
   "dependencies": {
     "mongodb": "^3.1.1",
-    "ws": "^6.0.0"
+    "socket.io": "^2.1.1"
   }
 }
